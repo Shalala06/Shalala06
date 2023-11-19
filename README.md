@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm gggg</h1>
+<h1 align="center">Hi 👋, Aymen Shallal</h1>
 <h3 align="center">Passion For Helping Create Data Pipelines That Allow Organisations To Make Data Driven Business Decisions</h3>
 
 -  I currently work at [SpartaGlobal](https://www.spartaglobal.com/) as a data consultant.
