@@ -1,5 +1,5 @@
 
-<p <h1 style = "text-align: center;">Aymen Shallal </p></h1>
+<p <h1 style = "text-align:center;">Aymen Shallal </p></h1>
 
 <p <h3 style = "text-align: center;"> aymenwork2020@gmail.com | https://www.linkedin.com/in/aymen-shallal-260a10171/</p></h3>
 
