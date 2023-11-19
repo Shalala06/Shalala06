@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm gggg</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passion For Helping Create Data Pipelines That Allow Organisations To Make Data Driven Business Decisions</h3>
 
--  I currently work at [SpartaGlobal](https://www.spartaglobal.com/) as  data consultant
+-  I currently work at [SpartaGlobal](https://www.spartaglobal.com/) as a data consultant.
 
-- I’m currently learning **SQL,Git Bash, Scrum Framework**
-
--  How to reach me **ahdghadhahd@gmail.com**
+-  How to reach me: **Aymenwork2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
